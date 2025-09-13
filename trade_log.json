@@ -1,0 +1,17 @@
+[
+    {
+        "ticker": "AAPL",
+        "score": 95,
+        "pnl": 120.5
+    },
+    {
+        "ticker": "TSLA",
+        "score": 89,
+        "pnl": 75.2
+    },
+    {
+        "ticker": "NVDA",
+        "score": 85,
+        "pnl": 60.0
+    }
+]
